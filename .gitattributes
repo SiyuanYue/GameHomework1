@@ -1,0 +1,2 @@
+Android_ASTC/MyDemo0-Android-Shipping.aab filter=lfs diff=lfs merge=lfs -text
+Android_ASTC/MyDemo0-Android-Shipping_universal.apk filter=lfs diff=lfs merge=lfs -text
